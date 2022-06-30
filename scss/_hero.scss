@@ -1,0 +1,72 @@
+.hero {
+    background-image: url('../img/insurance.svg');
+    background-repeat: no-repeat;
+    max-width: 100%;
+    background-position: center;
+    height: 720px;
+}
+
+.insurance {
+    width: 660px;
+    padding-top: 161px;
+}
+
+.insurance__heading {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 46px;
+    color: #214E41;
+    width: 600px;
+    padding-left: 120px;
+    margin-bottom: 40px;
+}
+
+.insurance__title {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #214E41;
+    padding-left: 120px;
+    padding-bottom: 16px;
+}
+
+.insurance__label {
+    padding-left: 120px;
+}
+
+input {
+    border: none;
+}
+
+.insurance__input {
+    background: #FFFFFF;
+    border-radius: 6px 0px 0px 6px;
+    width: 280px;
+    padding-top: 20px;
+    padding-right: 88px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+.insurance__input::placeholder {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    color: #222222;
+}
+
+.insurance__import {
+    background: #43806C;
+    border-radius: 0px 6px 6px 0px;
+    width: 126px;
+    padding-top: 20px;
+    padding-right: 35px;
+    padding-bottom: 20px;
+    padding-left: 35px;
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 20px;
+    color: #FFFFFF;
+    border: none;
+}
